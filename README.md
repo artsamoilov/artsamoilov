@@ -50,12 +50,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/artsamoilov/artsamoilov/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--
 **artsamoilov/artsamoilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
