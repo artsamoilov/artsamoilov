@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Arthur and I'm a frontend developer with UI/UX background, currently living in Serbia</p>
+<p align="left">My name is Arthur and I'm a React developer with UI/UX background, currently living in Serbia</p>
 
 ###
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning more about React ecosystem<br>🎯 Goals: learn Node.js and related backend technologies<br>🎲 Fun fact: I like snowboarding, computer games and my tiny dog 🐕</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning more about React ecosystem<br>🎯 Goals: learn React Native and related technologies<br>🎲 Fun fact: I like snowboarding, computer games and my tiny dog 🐕</p>
 
 ###
 
