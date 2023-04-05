@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <br>
  📚 I'm currently enhancing my skills in the React ecosystem
  <br>
- 🎯 Goals: to master React Native and related technologies
+ 🎯 Goals: to learn Pixi.js and HTML5 game development
  <br>
  🎲 Fun fact: I enjoy cycling, playing computer games, and spending time with my adorable dog 🐕
 </p>
