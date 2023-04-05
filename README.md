@@ -30,7 +30,15 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning more about React ecosystem<br>🎯 Goals: learn React Native and related technologies<br>🎲 Fun fact: I like snowboarding, computer games and my tiny dog 🐕</p>
+<p align="left">
+ ✨ Creating bugs since 2019
+ <br>
+ 📚 I'm currently enhancing my skills in the React ecosystem
+ <br>
+ 🎯 Goals: to master React Native and related technologies
+ <br>
+ 🎲 Fun fact: I enjoy cycling, playing computer games, and spending time with my adorable dog 🐕
+</p>
 
 ###
 
