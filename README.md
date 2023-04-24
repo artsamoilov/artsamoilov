@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <br>
  📚 I'm currently enhancing my skills in the React ecosystem
  <br>
- 🎯 Goals: to learn Next.js for SSR
+ 🎯 Goals: to learn Next.js and SSR
  <br>
  🎲 Fun fact: I enjoy cycling, playing computer games, and spending time with my adorable dog 🐕
  <br>
