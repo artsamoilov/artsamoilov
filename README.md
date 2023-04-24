@@ -38,6 +38,8 @@ Here are some ideas to get you started:
  🎯 Goals: to learn Pixi.js and HTML5 game development
  <br>
  🎲 Fun fact: I enjoy cycling, playing computer games, and spending time with my adorable dog 🐕
+ <br>
+ 📫 How to reach me: <a href="t.me/artsamoilov" target="_blank">Telegram</a> or <a href="mailto:artsamoilov@gmail.com">e-mail</a>
 </p>
 
 ###
