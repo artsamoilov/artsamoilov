@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 <!--  📚 I'm currently enhancing my skills in the React ecosystem
  <br>
  🎯 Goals: to learn Next.js and SSR
- <br> -->
- 🎲 Fun fact: I enjoy cycling, playing computer games, and spending time with my adorable dog 🐕
  <br>
+ 🎲 Fun fact: I enjoy cycling, playing computer games, and spending time with my adorable dog 🐕
+ <br> -->
  📫 How to reach me: <a href="https://t.me/artsamoilov" target="_blank">Telegram</a> or <a href="mailto:artsamoilov@gmail.com">e-mail</a>
 </p>
 
