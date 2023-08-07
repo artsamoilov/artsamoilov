@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <p align="left">
  ✨ Creating bugs since 2019
  <br>
- 📚 I'm currently enhancing my skills in the React ecosystem
+<!--  📚 I'm currently enhancing my skills in the React ecosystem
  <br>
  🎯 Goals: to learn Next.js and SSR
- <br>
+ <br> -->
  🎲 Fun fact: I enjoy cycling, playing computer games, and spending time with my adorable dog 🐕
  <br>
  📫 How to reach me: <a href="https://t.me/artsamoilov" target="_blank">Telegram</a> or <a href="mailto:artsamoilov@gmail.com">e-mail</a>
