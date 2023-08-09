@@ -37,9 +37,9 @@ Here are some ideas to get you started:
  <br>
  🎯 Goals: to learn Node.js, Next.js and SSR
  <!-- <br>
- 🎲 Fun fact: I enjoy cycling, playing and creating computer games, and spending time with my adorable dog 🐕
- <br> -->
- 📫 How to reach me: <a href="https://t.me/artsamoilov" target="_blank">Telegram</a> or <a href="mailto:artsamoilov@gmail.com">e-mail</a>
+ 🎲 Fun fact: I enjoy cycling, playing and creating computer games, and spending time with my adorable dog 🐕 -->
+ <br>
+📫 How to reach me: <a href="https://t.me/artsamoilov" target="_blank">Telegram</a> or <a href="mailto:artsamoilov@gmail.com">e-mail</a>
 </p>
 
 ###
