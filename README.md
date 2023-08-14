@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Arthur and I'm a React developer with UI/UX background</p>
+<p align="left">My name is Artur and I'm a React developer with UI/UX background</p>
 
 ###
 
