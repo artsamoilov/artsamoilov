@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Artur and I'm a React developer with UI/UX background</p>
+<p align="left">My name is Artur and I'm a Frontend developer</p>
 
 ###
 
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <p align="left">
  ✨ Creating bugs since 2019
  <br>
- 📚 I'm currently enhancing my skills in React.js
+ 📚 I'm currently enhancing my skills in React.js and smart contracts
  <br>
- 🎯 Goals: to learn Node.js, Next.js and SSR
+ 🎯 Goals: to learn Node.js, Ethereum blockchain and Solidity
  <!-- <br>
  🎲 Fun fact: I enjoy cycling, playing and creating computer games, and spending time with my adorable dog 🐕 -->
  <br>
